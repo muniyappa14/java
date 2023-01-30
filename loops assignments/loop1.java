@@ -9,7 +9,6 @@ class loop{
 					 System.out.println(i);
 				 }
 			 }
-			
 		}
 	}
 }

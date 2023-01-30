@@ -1,4 +1,7 @@
 //inner looping
+//How many ways to find duplicate element in an array
+//using inner loop and outer loop
+//example
 class arr{
 	public static void main(String[] args){
 		int a[]={5,10,15,20,5,20};
