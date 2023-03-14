@@ -25,6 +25,7 @@ public class streamApi3 {
 				System.out.println(emp_id.get(i));
 			}
 		}
+	
 
 	}
 

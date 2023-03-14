@@ -8,7 +8,7 @@
 //is string keyword in java 
 //string is keyword 
 
-//what are the differnet ways to create stirng objects?
+//what are the differnet ways to create string objects?
 //new method
 //string a={};(string literal)
 

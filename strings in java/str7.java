@@ -1,5 +1,5 @@
 //what is palindrome in java give an example
-//a string or a number is said to be palindrome just if the reverse of stiring or number is same 
+//a string or a number is said to be palindrome just if the reverse of string or number is same 
 //example:sts  or tmt 
 
 class test{

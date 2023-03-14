@@ -1,5 +1,5 @@
 //PRIVATE:IT CAN ACCESSED WITHIN  THE CLASS
-//private cammot be accessed outside the class 
+//private cannot be accessed outside the class 
 package pack1;
 public class met1{
 	public static void main(String[]args){
