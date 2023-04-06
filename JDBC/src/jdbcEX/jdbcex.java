@@ -14,7 +14,7 @@ public class jdbcex {
 			//import driver intermediate
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			//get connection
-			Connection con =DriverManager.getConnection("jdbc:mysql://localhost:3306/emp","Root","Muni@123");
+			Connection con =DriverManager.getConnection("jdbc:mysql://localhost:3306/?emp","Root","Muni@123");
 			Statement st=con.createStatement();
 			st.executeUpdate("create database (id int ,name varchar(20)");
 			//close the connection
